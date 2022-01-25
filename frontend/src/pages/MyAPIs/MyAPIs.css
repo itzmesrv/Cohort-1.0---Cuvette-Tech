@@ -1,0 +1,185 @@
+.apilogo
+{
+    position: absolute;
+    width: 120px;
+    height: 29.24px;
+    left: 60px;
+    top: 28px;
+    
+}
+
+.apiacc
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 970px;
+    top: 29px;
+    color: white;
+    
+    background: #142683;
+    border-radius: 10px;
+}
+
+.apiapi
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 110px;
+    height: 30px;
+    left: 800px;
+    top: 29px;
+    color: yellow;
+    
+    background: #142683;
+    border-radius: 10px;
+}
+
+.apibut
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 133px;
+    height: 44px;
+    left: 1150px;
+    top: 22px;
+    color: white;
+    
+    background: #142683;
+    border-radius: 5px;
+}
+
+.apiout
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    left: 1340px;
+    top: 29px;
+    color: white;
+    
+    background: #142683;
+    border-radius: 10px; 
+}
+
+.apirect
+{
+    position: absolute;
+    width: 1540px;
+    height: 670px;
+    left: 0px;
+    top: 88px;
+    
+    background: #FAFAFA;
+    
+}
+
+.aapitext
+{
+    position: absolute;
+    width: 250px;
+    height: 0px;
+    left: 100px;
+    top: 60px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 0px;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+}
+
+.apiapps
+{
+    position: absolute;
+width: 1600px;
+height: 219.69px;
+left: 100px;
+top: 204px;
+}
+
+#flex-container
+{
+    display: inline-flex; 
+    flex-direction: column;  
+   background-color: #FAFAFA;
+   margin-left: -20px;
+   /* margin-top: 100px; */
+   width:380px;
+   top: 600px;
+}
+
+#flex-container > div {
+    margin: 10px;
+    font-size: 16px;
+    margin-right: 50px;
+  }
+
+#app-img
+{
+    width: 300px;
+    height:200px;   
+}
+
+#appcard
+{
+    margin-left:100px ;
+     display: inline-flex;
+    flex-direction: column; 
+     align-items: center; 
+    width: 250px;
+    height: auto;
+    margin: 20px;
+    border-radius: 5%;
+}
+
+#cardtitle
+{
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: -0.02em;
+    
+    
+    
+    color: #000000;
+}
+
+
+.logo1:hover
+{
+    cursor:pointer;
+    transition: 0.5s ease;
+    background: #008170;
+    box-shadow: 0 0 10px #008170, 0 0 40px #008170, 0 0 80px #008170;
+}  
+
+
+

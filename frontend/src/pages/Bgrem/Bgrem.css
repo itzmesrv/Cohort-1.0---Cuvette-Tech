@@ -1,0 +1,185 @@
+.bgremmain
+{
+    color: white;
+}
+
+.remlogo
+{
+    position: absolute;
+    width: 120px;
+    height: 29.24px;
+    left: 40px;
+    top: 28px;
+}
+
+.bgfirstrect
+{
+    position: absolute;
+    width: 800px;
+    height: 670px;
+    left: -40px;
+    top: 50px;
+    
+    background: rgba(247, 248, 250, 0.5);
+    
+}
+
+.bglogo
+{
+    position: absolute;
+    width: 600px;
+    height: 315px;
+    left: 75px;
+    top: 350px;
+    
+    background: url(bglogo.png);
+}
+
+.bgprimtext1
+{
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 152px;
+    top: 50px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 0px;
+    letter-spacing: -0.02em;
+    
+    /* primary text */
+    
+    color: #1E272E;
+}
+
+.bgprimtext11
+{
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 152px;
+    top: 100px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 0px;
+    letter-spacing: -0.02em;
+    
+    /* primary text */
+    
+    color: #1E272E;
+}
+.bgprimtext2
+{
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 152px;
+    top: 210px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 0px;
+    letter-spacing: -0.02em;
+    
+    /* secondary text */
+    
+    color: #566474;
+    
+}
+
+.bgsecrect
+{
+    position: absolute;
+    width: 430px;
+    height: 456px;
+    left: 950px;
+    top: 210px;
+    
+    background: #FFFFFF;
+    border: 1px solid #DFE0E0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.bgimg
+{
+    position: absolute;
+    width: 107px;
+    height: 107px;
+    left: 1110px;
+    top: 290px;
+    
+    background: #F4F4F4;
+    background: url(img.png);
+}
+
+.bgsectext1
+{
+    position: absolute;
+    width: 192px;
+    height: 42px;
+    left: 1072px;
+    top: 409px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    
+    /* secondary text */
+    
+    color: #566474;
+}
+
+.bgbut
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 990px;
+    top: 511px;
+    color:white;
+    background: #142683;
+    border-radius: 5px;
+    
+}
+
+.bgbut1
+{
+    position: absolute;
+    width: 100px;
+    height: 28px;
+    left: 1115px;
+    top: 585px;
+    
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    letter-spacing: -0.02em;
+    
+    /* secondary text */
+    border-color: white;
+    background-color: white;
+    color: #566474;
+}
